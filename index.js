@@ -35,7 +35,7 @@ var Centenas = {
     'trezentos': 3,
     'quatrocentos': 4,
     'quinhentos': 5,
-    'seicentos': 6,
+    'seiscentos': 6,
     'setecentos': 7,
     'oitocentos': 8,
     'novecentos': 9,
